@@ -20,7 +20,7 @@ Two main classes are included SentenceUtilsTest.java and SentenceUtils.java. Com
 ```
 ----------------------------------------------
 
-COP3330 Sentence Utility Program by Dustin Ehling
+COP3330 Sentence Utility Program
 Input file name:cats.txt
 Number of sentences: 3
 
